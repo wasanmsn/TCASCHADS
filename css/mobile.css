@@ -5488,13 +5488,13 @@ u {
     position:relative;
     display:grid;
     grid-template-columns: 5% 45% 50%;
-    border: 1px solid #ffb600;
+    border: 1px solid #f95b5b;
 
     padding: 20px;
     background-color: white;
     
     overflow:hidden;
-    --after-bg-color:#ffb600;
+    --after-bg-color:#f95b5b;
 }
 .bottom-gird{
     position:relative;
@@ -5541,7 +5541,7 @@ ul{
     display:grid;
     grid-template-columns: 50% 50%;
 
-    border: 1px solid #f95b5b;
+    border: 1px solid #25cc65;
 
     padding: 20px;
     background-color: white;
@@ -5555,6 +5555,6 @@ ul{
     width:40px;
     height:40px;
     transform:rotate(45deg);
-    background-color:#f95b5b; /* to see where it is */
+    background-color:#25cc65; /* to see where it is */
 }
 /*# sourceMappingURL=mobile.css.map */
