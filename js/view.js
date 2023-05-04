@@ -77,9 +77,9 @@ document.addEventListener('DOMContentLoaded', function () {
                     otherGridDisplay.classList.add('checked');
                     otherGridDisplay.style.setProperty('--after-bg-color', '#00AFC1');
                 } else {
-                    otherGridDisplay.style.borderColor = '#ffb600';
+                    otherGridDisplay.style.borderColor = '#f95b5b';
                     otherGridDisplay.classList.remove('checked');
-                    otherGridDisplay.style.setProperty('--after-bg-color', '#ffb600');
+                    otherGridDisplay.style.setProperty('--after-bg-color', '#f95b5b');
                 }
             });
         });
