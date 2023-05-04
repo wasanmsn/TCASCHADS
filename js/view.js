@@ -26,7 +26,7 @@ function formatThaiDate(date) {
       'ก.ย.',
       'ต.ค.',
       'พ.ย.',
-      'ธ.ค.',
+      'ธ.ค.', 
     ];
   
     const day = String(date.getDate()).padStart(2, '0');
